@@ -1,0 +1,11 @@
+Dp is a way to reduce the complexity of your recursive solution to a code
+
+It is a concept not an algorithmn
+It merely aims to reduce the complexity of recursive code 
+
+
+Step 1:  is to always always find a brute force recursive solution to your problem then code it up my guy
+Step 2: Then optimize lmaoo, break the problem into subproblems, either start from the beginning'
+            (top down) or from the end (bottom up)
+Step 3: try storing repeating values draw tree youll understand and then code it up 
+
