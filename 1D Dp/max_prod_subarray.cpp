@@ -1,6 +1,6 @@
 /*
 
-
+AMAZON
 Brute : 
 Simply iterate through and explore all possible products 
 

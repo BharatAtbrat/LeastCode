@@ -6,6 +6,14 @@
 //keep comparing each str and add to map then push to result and return 
 
 //O(n * klogk) n = no.of strings , klogk for sorting a string 
+
+//Optimal 
+//Create key for every string , by making vector array of the count of letter and #
+//then add to map based on key 
+//push to result (auto it = mp.begin(); it!=mp.end();it++) resultpush back
+
+//O Time: O(n x l) -> n = length of strs, l = max length of a string in strs
+ //   Space: O(n x l)
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {

@@ -1,4 +1,4 @@
-//This is a variation of HR 1
+//This is a variation of HR 1 GOOGLE
 /*
 The only difference is the houses are now in a circle, so we cant use the first house and 
 last together 
